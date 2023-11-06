@@ -1,4 +1,4 @@
-#include "header.h"
+#include "binary_trees.h"
 /**
  *binary_tree_node - create a node in a tree.
  *@parent : address of the parent node in the tree.
